@@ -11,6 +11,6 @@ package com.mycompany.ingenieriaensistemas;
 public class Ingenieriaensistemas {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("bienvenidos a la facultad de sistemas");
     }
 }
